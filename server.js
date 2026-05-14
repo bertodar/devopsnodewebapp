@@ -7,7 +7,7 @@ const PORT = 3001;
 const HOST = '0.0.0.0';
 
 app.get('/', (req, res) => {
-  res.send('Hello DevOps LN9 – bertodar');
+  res.send('Hello DevOps LN10');
 });
 
 app.listen(PORT, HOST, () => {
